@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Monthly 10\\ProductsAPI\\ProductsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\user\\desktop\\monthly 10\\productsapi\\productsapi\\productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\user\\desktop\\monthly 10\\productsapi\\productsapi\\productsapi\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\user\\desktop\\monthly 10\\productsapi\\productsapi\\productsapi\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\user\\desktop\\monthly 10\\productsapi\\productsapi\\productsapi\\data\\productsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\data\\productsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\user\\desktop\\monthly 10\\productsapi\\productsapi\\productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\user\\desktop\\monthly 10\\productsapi\\productsapi\\productsapi\\productsapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\productsapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\user\\desktop\\monthly 10\\productsapi\\productsapi\\productsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\7.0.404\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Monthly 10\\ProductsAPI\\ProductsAPI\\ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Monthly 10\\ProductsAPI\\ProductsAPI\\ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "RelativeToolTip": "ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:05:46.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Monthly 10\\ProductsAPI\\ProductsAPI\\ProductsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Monthly 10\\ProductsAPI\\ProductsAPI\\ProductsAPI\\appsettings.json",
+              "RelativeToolTip": "ProductsAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T05:18:48.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Monthly 10\\ProductsAPI\\ProductsAPI\\ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Monthly 10\\ProductsAPI\\ProductsAPI\\ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "RelativeToolTip": "ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T04:42:03.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Monthly 10\\ProductsAPI\\ProductsAPI\\ProductsAPI\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Monthly 10\\ProductsAPI\\ProductsAPI\\ProductsAPI\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "ProductsAPI\\Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:28:01.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\7.0.404\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\7.0.404\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAEwKQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-02-28T04:45:06.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Monthly 10\\ProductsAPI\\ProductsAPI\\ProductsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Monthly 10\\ProductsAPI\\ProductsAPI\\ProductsAPI\\Program.cs",
+              "RelativeToolTip": "ProductsAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T04:42:03.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsAPI.http",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Monthly 10\\ProductsAPI\\ProductsAPI\\ProductsAPI\\ProductsAPI.http",
+              "RelativeDocumentMoniker": "ProductsAPI\\ProductsAPI.http",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Monthly 10\\ProductsAPI\\ProductsAPI\\ProductsAPI\\ProductsAPI.http",
+              "RelativeToolTip": "ProductsAPI\\ProductsAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-02-28T04:42:03.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Monthly 10\\ProductsAPI\\ProductsAPI\\ProductsAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Monthly 10\\ProductsAPI\\ProductsAPI\\ProductsAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsAPI\\Models\\Product.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T04:42:03.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
